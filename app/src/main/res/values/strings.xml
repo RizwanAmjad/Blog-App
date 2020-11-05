@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="loginButtonText">Login</string>
+    <string name="signUpButtonText">Click here to Sign Up</string>
+    <string name="passwordHint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="userNameHint">User Name</string>
+    <string name="closeButton">Close</string>
+    <string name="postTitleHint">Post Title</string>
+    <string name="postDescriptionHint">Description</string>
+    <string name="submitButtonText">Submit</string>
+</resources>
